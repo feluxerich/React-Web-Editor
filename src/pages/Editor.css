@@ -1,0 +1,9 @@
+[contentEditable] {
+  outline: none;
+}
+
+fieldset {
+  width: fit-content;
+  border: none;
+  margin: 0;
+}
